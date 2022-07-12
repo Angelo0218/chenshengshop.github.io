@@ -1,0 +1,44 @@
+/* 主業背景 */
+body{
+    background-color: rgba(189, 187, 186, 0.814);
+
+}
+/* 導覽背景長度 */
+nav{
+    height:130px ;
+
+}
+/* 導覽業背景 */
+.navbar{
+
+background-color: rgba(240, 248, 255, 0.836);
+
+
+}
+a img{
+    border:3px solid black
+
+}
+
+/* logo旁邊的目錄 */
+li a {
+    color: rgba(135, 136, 136, 0.802) !important;
+    font-size:25px;
+
+}
+/* 滑鼠滑過有顏色 */
+li a:hover{  
+    color:black !important;
+
+}
+/* 導覽按鈕顏色 */
+.navbar-toggler{
+
+    background-color: darkgrey;
+
+}
+@media (max-width:600px){
+    nav{
+        height:auto ;
+    }
+}

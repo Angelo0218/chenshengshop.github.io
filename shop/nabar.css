@@ -5,7 +5,7 @@ body{
 }
 /* 導覽背景長度 */
 nav{
-    height:130px ;
+    height:15% ;
 
 }
 /* 導覽業背景 */
@@ -15,15 +15,16 @@ background-color: rgba(240, 248, 255, 0.836);
 
 
 }
+
 a img{
-    border:3px solid black
+    border:5% solid black
 
 }
 
 /* logo旁邊的目錄 */
 li a {
     color: rgba(135, 136, 136, 0.802) !important;
-    font-size:25px;
+    font-size:25%;
 
 }
 /* 滑鼠滑過有顏色 */

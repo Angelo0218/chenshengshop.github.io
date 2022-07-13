@@ -42,6 +42,11 @@ li a:hover{
 .navbar-nav{
     background-color: antiquewhite;
 }
+.first{
+	width:100%;
+	height:350px;
+
+}
 @media (max-width:600px){
     nav{
         height:auto ;

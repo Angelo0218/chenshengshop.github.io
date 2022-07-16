@@ -1,0 +1,88 @@
+.container-shop {
+    padding: 10px;
+    font-size: 30px;
+}
+
+.row {
+    text-align: center;
+}
+
+.logo {
+    width: 10rem;
+    height: 10rem;
+}
+
+/* 分類 */
+.classify {
+    background-color: rgb(102, 142, 171);
+}
+
+/* 投影幕 */
+.first {
+    width: 80%;
+    height: 350px;
+
+}
+
+.two {
+    width: 35rem;
+    height: 40rem;
+}
+
+/* 圖片 */
+.poster {
+    margin-bottom: auto;
+}
+
+.poster1 {
+    width: 80%;
+    height: 400px;
+
+}
+
+.poster2 {
+    width: 35rem;
+    height: 40rem;
+
+
+}
+
+.poster3 {
+    width: 35rem;
+    height: 40rem;
+
+}
+
+.poster4 {
+    width: 800px;
+    height: 100px;
+}
+
+.poster5 {
+    width: 800px;
+    height: 100px;
+}
+
+.poster6 {
+    width: 800px;
+    height: 100px;
+}
+
+/* 頁尾 */
+.footer {
+    background-color: gray;
+    padding: 10px;
+    font-size: 20px
+}
+
+@media (max-width:600px) {
+    .postercol {
+        height: auto
+    }
+
+    .postercol3 {
+        width: 10px;
+        height: 20px;
+        margin-bottom: 10cm;
+    }
+}

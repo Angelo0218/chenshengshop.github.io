@@ -32,6 +32,12 @@
     background-size: cover;
     margin-bottom: 0ch;
 }
+.navbar-toggler{
+    display: block;
+
+    margin-left:auto;
+
+}
 .long-2{
     width: auto;
     height: 293px; 
